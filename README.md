@@ -9,5 +9,15 @@ Version: 1.0
 Date: 20.12.2021
 
 Copyright: 
- The rightful owner of the project is George Tasev
+ The rightful owner of the project is made by George Tasev
  GitHub profile: https://github.com/XCMachine
+ 
+Android SDK Information:
+ Minimum Android API Level: 21
+ Target Android API Level: 31
+ 
+Libraries used:
+ 1. implementation 'androidx.core:core-ktx:1.7.0'
+ 2. implementation 'androidx.appcompat:appcompat:1.4.0'
+ 3. implementation 'com.google.android.material:material:1.4.0'
+ 4. implementation 'androidx.constraintlayout:constraintlayout:2.1.2'
