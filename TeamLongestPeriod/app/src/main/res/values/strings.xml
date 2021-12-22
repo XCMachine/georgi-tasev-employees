@@ -1,6 +1,0 @@
-<resources>
-    <string name="app_name">TeamLongestPeriod</string>
-    <string name="open">Open</string>
-    <string name="introString">Press Open button to browse the File Explorer.</string>
-    <string name="topLabel">EmpID|ProjectID|DateFrom|DateTo</string>
-</resources>
