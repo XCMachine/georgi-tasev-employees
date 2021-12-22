@@ -13,7 +13,7 @@ Date: 20.12.2021
 
 Copyright: 
  The rightful owner of the project is made by George Tasev
- GitHub profile: https://github.com/XCMachine
+ ,GitHub profile: https://github.com/XCMachine
  
 Android SDK Information:
  Minimum Android API Level: 21
