@@ -15,9 +15,9 @@ Copyright:
  The rightful owner of the project is made by George Tasev
  ,GitHub profile: https://github.com/XCMachine
  
-Android SDK Information:
- Minimum Android API Level: 21
- Target Android API Level: 31
+Android SDK Information: 
+Minimum Android API Level: 21
+Target Android API Level: 31
  
 Libraries used:
  1. implementation 'androidx.core:core-ktx:1.7.0'
