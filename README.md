@@ -1,4 +1,4 @@
-# georgi-tasev-employees
+# Team-longest-period
 Description:
  The purpose of the list of employess, by using a button to open ".txt" files within the device. Displaying it as a regular textview and reads every single detail within the text file and opens it as a string. However for those employees who are still working on a certain project even to this day, the date will be displayed as "NULL".
  
